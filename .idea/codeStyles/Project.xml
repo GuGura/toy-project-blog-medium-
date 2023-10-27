@@ -1,0 +1,29 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JSCodeStyleSettings version="0">
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+    </JSCodeStyleSettings>
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+    </TypeScriptCodeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
+      <option name="SPACE_BEFORE_COLON" value="false" />
+      <option name="SPACE_AFTER_COLON" value="false" />
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="TypeScript">
+      <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
+      <option name="SPACE_BEFORE_COLON" value="false" />
+      <option name="SPACE_AFTER_COLON" value="false" />
+      <option name="ENUM_CONSTANTS_WRAP" value="0" />
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
