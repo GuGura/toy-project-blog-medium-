@@ -5,7 +5,9 @@ export default function Home() {
   return (
     <div className={'p-3'}>
       <h1 className="sticky p-3">Home {res}</h1>
-      <Button>Click me</Button>
+      <Button as={'a'} href={'/'}>
+        Click me
+      </Button>
     </div>
   );
 }
