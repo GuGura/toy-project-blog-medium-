@@ -1,3 +1,64 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    --primay-1: #BEADFA;
+    --primay-2: #D0BFFF;
+    --primay-3: #DFCCFB;
+    --primay-4: #FFF8C9;
+
+    --white: #FFFFFF;
+    --light-grey-1: #DFDFDF;
+    --light-grey-2: #C1C1C1;
+
+    --grey-1: #A5A5A5;
+    --grey-2: #8B8B8B;
+    --grey-3: #6F6F6F;
+    --grey-4: #555555;
+
+    --dark-grey-1: #3D3D3D;
+    --dark-grey-2: #242424;
+    --black: #000000;
+
+    --background: #F6F4EE;
+    --light-background-1: #FAFAF6;
+    --light-background-2: #F5F4F3;
+    --light-background-3: #F7F7F7;
+
+    --shadow-card: '0px 2px 8px 0px rgba(0, 0, 0, 0.1),0px 8px 20px 0px rgba(0, 0, 0, 0.1)';
+    --shadow-fload-button: '4px 8px 28px 0px rgba(0, 0, 0, 0.08),0px 4px 12px 0px rgba(0, 0, 0, 0.16)';
+    --shadow-large-book: 'box-shadow: 12px 8px 24px 0px rgba(0, 0, 0, 0.2),4px 8px 8px 0px rgba(0, 0, 0, 0.1),0px 0px 2px 0px rgba(0, 0, 0, 0.24)';
+    --shadow-small-book: '2px 2px 6px 0px rgba(0, 0, 0, 0.1),0px 0px 2px 0px rgba(0, 0, 0, 0.2)';
+    --shadow-profile: '0px 0px 1px 0px rgba(0, 0, 0, 0.25)';
+    --shadow-dropbox: '2px 6px 12px 0px rgba(0, 0, 0, 0.12),0px 0px 4px 0px rgba(0, 0, 0, 0.12)';
+
+    --toast: {
+      padding: 16px;
+      min-width: 264px;
+      max-width: 100%;
+      min-height: 24px;
+      display: flex;
+    }
+  }
+
+  .dark {
+    /*--cream-1: #B5B4A7;*/
+    /*--cream-2: #95948C;*/
+    /*--cream-3: #73726C;*/
+
+    /*--grey-1: #8A8E84;*/
+    /*--grey-2: #6D7061;*/
+    /*--grey-3: #4D4F48;*/
+
+    /*--purple-1: #7A6DCC;*/
+    /*--purple-2: #6B5CA6;*/
+    /*--purple-3: #4D4376;*/
+
+
+    /*--dark-grey-1: #3A4453;*/
+    /*--dark-grey-2: #28303D;*/
+    /*--dark-grey-3: #1A222A;*/
+  }
+}

@@ -8,5 +8,5 @@ Set from > Editor Config 클릭
 npm install @radix-ui/themes --save
 
 npm i tailwind-merge --save
-
+npm install --save clsx
 ```
