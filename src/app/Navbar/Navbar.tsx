@@ -17,8 +17,8 @@ export default async function Navbar() {
           <Button as={'a'} href={'/guide'} className={'bg-transparent'}>
             Guide
           </Button>
-          <Button as={'a'} href={'/guide'} className={'bg-transparent'}>
-            Our story
+          <Button as={'a'} href={'/new-story'} className={'bg-transparent'}>
+            New story
           </Button>
           <Button as={'a'} href={'/guide'} className={'bg-transparent'}>
             Our story
